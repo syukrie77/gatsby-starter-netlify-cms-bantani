@@ -7,24 +7,19 @@ subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Bantani
   description: >
-    Bantani is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Bantani adalah toko kopi untuk semua orang yang percaya bahwa kopi yang enak tidak hanya enak rasanya, tapi benar-benar enak. 
+    Kami mendapatkan semua biji kopi langsung dari petani skala kecil yang berkelanjutan dan memastikan sebagian keuntungan 
+    diinvestasikan kembali di komunitas mereka..
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Bantani adalah tempat terbaik bagi pecinta kopi yang ingin belajar tentang asal jawa mereka dan mendukung para petani yang membudidayakannya. 
+  Kami menangani produksi, pemanggangan, dan pembuatan kopi dengan serius dan kami dengan senang hati akan menyebarkan pengetahuan itu kepada siapa pun.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Kami menjual biji kopi hijau dan sangrai yang bersumber langsung dari petani mandiri dan koperasi tani. 
+        Kami bangga menawarkan berbagai biji kopi yang ditanam dengan kepedulian yang tinggi terhadap lingkungan dan komunitas lokal. 
+        Periksa postingan kami atau hubungi kami langsung untuk ketersediaan saat ini.
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
