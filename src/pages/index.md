@@ -22,37 +22,31 @@ intro:
         Periksa postingan kami atau hubungi kami langsung untuk ketersediaan saat ini.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+       Kami menawarkan sedikit pilihan peralatan dan perlengkapan pembuatan coffee untuk setiap tingkat rasa dan pengalaman. 
+       Tidak masalah jika Anda roasting biji kopi sendiri atau baru saja membeli mesin press pertama Anda, Anda akan menemukan kesenangan di toko kami.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Suka secangkir kopi yang enak, tetapi tidak pernah tahu cara membuatnya? Membeli Chemex baru yang mewah tetapi 
+        tidak tahu cara menggunakannya? Jangan khawatir, kami siap membantu. Anda dapat menjadwalkan konsultasi
+        khusus dengan barista kami untuk mempelajari apa pun yang ingin Anda ketahui tentang roasting dan brewing kopi. 
+        Email kami atau hubungi toko untuk detailnya.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Kami percaya bahwa kopi yang baik memiliki kekuatan untuk menyatukan orang. 
+        Itulah mengapa kami memutuskan untuk mengubah sudut toko kami menjadi ruang pertemuan yang nyaman tempat 
+        Anda dapat berkumpul dengan sesama pecinta kopi dan belajar tentang teknik membuat kopi. 
+        Semua karya seni yang dipamerkan di sana untuk dijual. Harga penuh yang Anda bayarkan menjadi bernilai.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Bantani adalah tempat terbaik bagi pecinta kopi yang ingin belajar tentang kopi asal jawa mereka dan mendukung para petani yang membudidayakannya. 
+    Kami menangani produksi, pemanggangan, dan pembuatan kopi dengan serius dan kami dengan senang hati akan menyebarkan pengetahuan itu kepada siapa pun. 
+    Ini adalah komitmen kami...
 main:
   heading: Great coffee with no compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Kami membuat kopi kami dengan standar tertinggi dari semak hingga cangkir. 
+    Itulah mengapa kami sangat teliti dan transparan tentang setiap langkah perjalanan kopi. 
+    Kami secara pribadi mengunjungi setiap kebun untuk memastikan kondisinya optimal bagi tanaman, petani, dan lingkungan setempat.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
