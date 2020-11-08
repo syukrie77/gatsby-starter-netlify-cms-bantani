@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Bantani Kopi',
     description:
-      'Bantani Kopi, Kopinya Asli Indonesia.',
+      'Bantani Kopi, Penyambung Rasa.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
