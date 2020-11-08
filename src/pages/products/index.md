@@ -1,43 +1,43 @@
 ---
-templateKey: 'product-page'
+heading: Great coffee with a conscience
 path: /products
+templateKey: product-page
 title: Our Coffee
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: Bantani adalah tempat terbaik bagi pecinta kopi yang ingin belajar
+  tentang asal usul kopi dan mendukung para petani yang membudidayakannya. Kami
+  menangani produksi, pemanggangan, dan pembuatan kopi dengan serius dan kami
+  dengan senang hati akan menyebarkan pengetahuan itu kepada siapa pun.
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: Kami menjual biji kopi dan sangrai yang bersumber langsung dari petani
+        mandiri dan koperasi tani. Kami bangga menawarkan berbagai biji kopi
+        yang ditanam dengan kepedulian yang tinggi terhadap lingkungan dan
+        komunitas lokal. Periksa posting kami atau hubungi kami langsung untuk
+        ketersediaan saat ini.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Kami menawarkan sedikit pilihan peralatan dan peralatan pembuatan kopi
+        untuk setiap tingkat rasa dan pengalaman. Tidak masalah jika Anda
+        memanggang biji Anda sendiri atau baru saja membeli mesin press pertama
+        Anda, Anda akan menemukan gadget untuk membuat Anda jatuh cinta di toko
+        kami.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Suka secangkir kopi yang enak, tetapi tidak pernah tahu cara membuatnya?
+        Membeli Chemex baru yang mewah tetapi tidak tahu cara menggunakannya?
+        Jangan khawatir, kami siap membantu. Anda dapat menjadwalkan konsultasi
+        1-lawan-1 khusus dengan barista kami untuk mempelajari apa pun yang
+        ingin Anda ketahui tentang roasting dan brewing kopi. Email kami atau
+        hubungi toko untuk detailnya.
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: Kami percaya bahwa kopi yang baik memiliki kekuatan untuk menyatukan
+        orang. Itulah mengapa kami memutuskan untuk mengubah sudut toko kami
+        menjadi ruang pertemuan yang nyaman tempat Anda dapat berkumpul dengan
+        sesama pecinta kopi dan belajar tentang teknik membuat kopi. Semua karya
+        seni yang dipamerkan di sana untuk dijual. Harga penuh yang Anda
+        bayarkan menjadi milik artis.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -46,11 +46,10 @@ intro:
     knowledge to anyone. This is an edit via identity...
 main:
   heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  description: Kami membuat kopi kami dengan standar tertinggi dari semak hingga
+    cangkir. Itulah mengapa kami sangat teliti dan transparan tentang setiap
+    langkah perjalanan kopi. Kami secara pribadi mengunjungi setiap kebun untuk
+    memastikan kondisinya optimal bagi tanaman, petani, dan lingkungan setempat.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -61,21 +60,19 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+  - author: Muhammad Syukri
+    quote: Pertama kali saya mencoba kopi Bantani, saya bahkan tidak percaya itu
+      adalah hal yang sama yang saya minum setiap pagi.
+  - author: Muhammad Syukri
+    quote: Batani adalah tempat yang dituju jika Anda menginginkan kopi dengan
+      kualitas terbaik. Saya menyukai sikap mereka dalam memberdayakan petani
+      dan transparansi.
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  description: We make it easy to make great coffee a part of your life. Choose
+    one of our monthly subscription plans to receive great coffee at your
+    doorstep each month. Contact us about more details and payment info.
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
@@ -83,19 +80,19 @@ pricing:
         - Green or roasted beans"
         - One or two varieties of beans"
       plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+      price: "50"
+    - description: Great for avid drinkers, java-loving couples and bigger crowds
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
       plan: Big
-      price: '80'
+      price: "80"
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: '??'
+      price: ??
 ---
