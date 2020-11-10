@@ -1,34 +1,25 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+templateKey: blog-post
+title: "Just in: small batch of Jamaican Blue Mountain in store next week"
 date: 2017-01-04T15:04:10.000Z
-featuredpost: true
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+description: Dengan bangga kami mengumumkan bahwa kami akan menawarkan sejumlah
+  kecil biji kopi Jamaica Blue Mountain di toko kami minggu depan.
+featuredpost: false
+featuredimage: /img/flavor_wheel.jpg
 tags:
   - jamaica
   - green beans
   - flavor
   - tasting
 ---
+Kami berharap pengiriman kacang hijau dalam jumlah terbatas Senin depan. Kami akan menawarkan biji sangrai mulai Selasa, tetapi jumlahnya terbatas, jadi cepatlah.
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
-
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+Blue Mountain Peak adalah gunung tertinggi di Jamaika dan salah satu puncak tertinggi di Karibia dengan ketinggian 7.402 kaki. Ini adalah rumah bagi kopi Blue Mountain dan tur terkenal mereka. Itu terletak di perbatasan paroki Portland dan Saint Thomas di Jamaika.
 
 ## A little history
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+Blue Mountains dianggap oleh banyak orang sebagai surga bagi pejalan kaki dan berkemah. Perjalanan tradisional Blue Mountain adalah pendakian 7 mil ke puncak dan terdiri dari peningkatan ketinggian 3.000 kaki. Orang Jamaika lebih suka mencapai puncak saat matahari terbit, oleh karena itu pendakian selama 3–4 jam biasanya dilakukan dalam kegelapan. Karena langit biasanya sangat cerah di pagi hari, Kuba dapat dilihat dari kejauhan.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+> Beberapa tanaman yang ditemukan di Blue Mountain tidak dapat ditemukan di tempat lain di dunia dan seringkali dari jenis yang kerdil.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
-
-## What you need to know before trying
-
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
-
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+Ini terutama karena iklim dingin yang menghambat pertumbuhan. Komunitas kecil petani kopi di Claverty Cottage dan Hagley Gap terletak di dekat puncak.
